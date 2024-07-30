@@ -1,0 +1,774 @@
+{
+    "animes": [
+        {
+            "title": "Naruto",
+            "synopsis": "Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the village leader.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 220,
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
+        },
+        {
+            "title": "Attack on Titan",
+            "synopsis": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, giant humanoid creatures, Eren Yeager joins the fight to end their terror.",
+            "genres": [
+                "Action",
+                "Mystery",
+                "Drama"
+            ],
+            "episodes": 75,
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Attack_on_Titan_cover_1.jpg"
+        },
+        {
+            "title": "My Hero Academia",
+            "synopsis": "In a world where nearly everyone has superpowers called Quirks, Izuku Midoriya, a Quirkless boy, dreams of becoming the greatest hero.",
+            "genres": [
+                "Action",
+                "Comedy",
+                "School"
+            ],
+            "episodes": 88,
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/03/My_Hero_Academia_Volume_1.png"
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "synopsis": "Two brothers, Edward and Alphonse Elric, use alchemy to search for the Philosopher's Stone to restore their bodies after a failed attempt to bring their mother back to life.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "episodes": 64,
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Fullmetal_Alchemist_Brotherhood_-_Volume_1_DVD_cover.jpg"
+        },
+        {
+            "title": "Death Note",
+            "synopsis": "A high school student discovers a supernatural notebook that allows him to kill anyone whose name he writes in it, leading to a conflict with a mysterious detective.",
+            "genres": [
+                "Mystery",
+                "Thriller",
+                "Psychological"
+            ],
+            "episodes": 37,
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Death_Note_Vol_1.jpg"
+        },
+        {
+            "title": "One Piece",
+            "synopsis": "Monkey D. Luffy, a boy with the ability to stretch like rubber, sets out with his pirate crew to find the ultimate treasure, One Piece, and become the Pirate King.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 1000,
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/61/One_Piece%2C_Volume_1_Cover_%28Japanese%29.png"
+        },
+        {
+            "title": "Sword Art Online",
+            "synopsis": "In the near future, players of a virtual reality MMORPG find themselves trapped in the game, where dying in-game means dying in real life.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 49,
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/Sword_Art_Online_light_novel_volume_1_cover.jpg"
+        },
+        {
+            "title": "Demon Slayer",
+            "synopsis": "Tanjiro Kamado, a kind-hearted boy, joins the Demon Slayer Corps to save his sister, who has been turned into a demon, and avenge his family.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Supernatural"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Demon_Slayer_-_Kimetsu_no_Yaiba%2C_volume_1.jpg"
+        },
+        {
+            "title": "Cowboy Bebop",
+            "synopsis": "In the year 2071, bounty hunters known as 'Cowboys' travel in their spaceship, Bebop, as they hunt criminals and explore the galaxy.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Cowboy_Bebop_vol_1_DVD.jpg"
+        },
+        {
+            "title": "Dragon Ball Z",
+            "synopsis": "Goku and his friends defend the Earth from various villains, ranging from intergalactic space fighters and conquerors, unnaturally powerful androids, and nearly indestructible creatures.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 291,
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Dragon_Ball_Z_Resurrection_%27F%27_poster.jpg"
+        },
+        {
+            "title": "Bleach",
+            "synopsis": "Ichigo Kurosaki gains the abilities of a Soul Reaper and must protect the living world from dark spirits known as Hollows.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Supernatural"
+            ],
+            "episodes": 366,
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/72/Bleach_cover_01.jpg"
+        },
+        {
+            "title": "Fairy Tail",
+            "synopsis": "Lucy Heartfilia joins the Fairy Tail Guild and embarks on magical adventures with her guildmates Natsu, Gray, Erza, and Happy.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 328,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Fairy_Tail_vol._1.png/220px-Fairy_Tail_vol._1.png"
+        },
+        {
+            "title": "Hunter x Hunter",
+            "synopsis": "Gon Freecss discovers that his father, who he thought was dead, is actually a famous Hunter and sets out on a journey to find him.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 148,
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Hunter_x_Hunter_cover_-_vol1.jpg"
+        },
+        {
+            "title": "Neon Genesis Evangelion",
+            "synopsis": "In a post-apocalyptic world, teenager Shinji Ikari pilots a giant mecha to protect Earth from mysterious beings known as Angels.",
+            "genres": [
+                "Action",
+                "Psychological",
+                "Sci-Fi"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Evangelion_DVD_volume_1.jpg/220px-Evangelion_DVD_volume_1.jpg"
+        },
+        {
+            "title": "Tokyo Ghoul",
+            "synopsis": "Ken Kaneki, a college student, survives a deadly encounter with a ghoul and becomes part-ghoul himself, navigating a dangerous new world.",
+            "genres": [
+                "Action",
+                "Horror",
+                "Psychological"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/Tokyo_Ghoul_volume_1_cover.jpg"
+        },
+        {
+            "title": "Code Geass",
+            "synopsis": "Lelouch vi Britannia gains the power of Geass and leads a rebellion against the Holy Britannian Empire to avenge his mother and create a better world.",
+            "genres": [
+                "Action",
+                "Mecha",
+                "Sci-Fi"
+            ],
+            "episodes": 50,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Code_Geass_Season_1_DVD_volume_1.jpg/220px-Code_Geass_Season_1_DVD_volume_1.jpg"
+        },
+        {
+            "title": "Sword of the Stranger",
+            "synopsis": "A nameless samurai helps a young boy and his dog escape from pursuers, leading to a clash with a skilled Chinese warrior.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Historical"
+            ],
+            "episodes": 1,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Sword_of_the_Stranger_poster.png/220px-Sword_of_the_Stranger_poster.png"
+        },
+        {
+            "title": "Black Clover",
+            "synopsis": "Asta, a boy born without magic, aims to become the Wizard King with the help of his friends and his rare anti-magic abilities.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 170,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Black_Clover%2C_volume_1.jpg/220px-Black_Clover%2C_volume_1.jpg"
+        },
+        {
+            "title": "Blue Exorcist",
+            "synopsis": "Rin Okumura, a teenager who discovers he is the son of Satan, enrolls at True Cross Academy to become an exorcist and fight against his fate.",
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Supernatural"
+            ],
+            "episodes": 25,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ao_no_Exorcist_vol1_Cover.jpg/220px-Ao_no_Exorcist_vol1_Cover.jpg"
+        },
+        {
+            "title": "One Punch Man",
+            "synopsis": "Saitama, a superhero who can defeat any opponent with a single punch, searches for meaning and excitement in his hero career.",
+            "genres": [
+                "Action",
+                "Comedy",
+                "Superhero"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/OnePunchMan_manga_cover.png/220px-OnePunchMan_manga_cover.png"
+        },
+        {
+            "title": "Steins;Gate",
+            "synopsis": "A group of friends who run a small-time laboratory develop a device that can send messages to the past, which brings them into conflict with a powerful organization.",
+            "genres": [
+                "Sci-Fi",
+                "Thriller",
+                "Drama"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/SteinsGateCover.jpg/220px-SteinsGateCover.jpg"
+        },
+        {
+            "title": "Your Lie in April",
+            "synopsis": "A piano prodigy who loses his ability to hear the piano after his mother's death is brought back to music by a spirited violinist.",
+            "genres": [
+                "Drama",
+                "Music",
+                "Romance"
+            ],
+            "episodes": 22,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Shigatsu_wa_Kimi_no_Uso_volume_1_cover.jpg/220px-Shigatsu_wa_Kimi_no_Uso_volume_1_cover.jpg"
+        },
+        {
+            "title": "Clannad",
+            "synopsis": "A delinquent student and a strange girl meet and slowly form a close relationship while exploring their own personal struggles and those of their friends.",
+            "genres": [
+                "Drama",
+                "Romance",
+                "Slice of Life"
+            ],
+            "episodes": 23,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Clannad_visual_novel.jpg/220px-Clannad_visual_novel.jpg"
+        },
+        {
+            "title": "Re:Zero - Starting Life in Another World",
+            "synopsis": "A young man is transported to a fantasy world where he gains the ability to return to a certain point in time whenever he dies.",
+            "genres": [
+                "Fantasy",
+                "Drama",
+                "Psychological"
+            ],
+            "episodes": 50,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Re_Zero_Vol_1.png/220px-Re_Zero_Vol_1.png"
+        },
+        {
+            "title": "Fate/stay night: Unlimited Blade Works",
+            "synopsis": "Shirou Emiya, a young mage, becomes a participant in the Fifth Holy Grail War, a secret magical tournament where mages summon heroic spirits to fight.",
+            "genres": [
+                "Action",
+                "Fantasy",
+                "Supernatural"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Fatestay_night_unlimited_blade_works_key_image.jpg/220px-Fatestay_night_unlimited_blade_works_key_image.jpg"
+        },
+        {
+            "title": "Mob Psycho 100",
+            "synopsis": "A powerful psychic middle schooler tries to live a normal life and keep his emotions in check, but his powers often make things difficult.",
+            "genres": [
+                "Action",
+                "Comedy",
+                "Supernatural"
+            ],
+            "episodes": 25,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Mob_Psycho_100_key_visual.jpg/220px-Mob_Psycho_100_key_visual.jpg"
+        },
+        {
+            "title": "Erased",
+            "synopsis": "A young man possesses the ability to travel back in time to prevent tragedies. When his mother is murdered, he is sent back to his childhood to prevent a series of kidnappings.",
+            "genres": [
+                "Mystery",
+                "Thriller",
+                "Supernatural"
+            ],
+            "episodes": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Boku_dake_ga_Inai_Machi%2C_volume_1.jpg/220px-Boku_dake_ga_Inai_Machi%2C_volume_1.jpg"
+        },
+        {
+            "title": "The Seven Deadly Sins",
+            "synopsis": "A group of knights known as the Seven Deadly Sins must band together to overthrow tyrants and protect the kingdom.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "episodes": 100,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Nanatsu_no_Taizai.jpg/220px-Nanatsu_no_Taizai.jpg"
+        },
+        {
+            "title": "Akame ga Kill!",
+            "synopsis": "A young warrior joins an assassin group to overthrow a corrupt empire, facing various challenges and moral dilemmas.",
+            "genres": [
+                "Action",
+                "Drama",
+                "Fantasy"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Akame_ga_Kill%21_manga_volume_1_cover.jpg/220px-Akame_ga_Kill%21_manga_volume_1_cover.jpg"
+        },
+        {
+            "title": "No Game No Life",
+            "synopsis": "Siblings Sora and Shiro, who are unbeatable gamers, are transported to a world where everything is decided by games.",
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Comedy"
+            ],
+            "episodes": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/No_Game_No_Life%2C_Volume_1.jpg/220px-No_Game_No_Life%2C_Volume_1.jpg"
+        },
+        {
+            "title": "Toradora!",
+            "synopsis": "Ryuuji Takasu and Taiga Aisaka form an unlikely friendship to help each other with their respective crushes.",
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Slice of Life"
+            ],
+            "episodes": 25,
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Toradora%21_vol1_Cover.jpg"
+        },
+        {
+            "title": "Soul Eater",
+            "synopsis": "Students at the Death Weapon Meister Academy must collect the souls of evil humans to turn their weapons into Death Scythes.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Supernatural"
+            ],
+            "episodes": 51,
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Soul_Eater_manga_vol_1.jpg"
+        },
+        {
+            "title": "K-On!",
+            "synopsis": "A group of high school girls join the light music club and form a band, experiencing various comedic and heartfelt moments.",
+            "genres": [
+                "Music",
+                "Slice of Life",
+                "Comedy"
+            ],
+            "episodes": 39,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/K-On%21_manga_cover.jpg/220px-K-On%21_manga_cover.jpg"
+        },
+        {
+            "title": "Madoka Magica",
+            "synopsis": "A dark twist on the magical girl genre, where young girls make contracts to become magical girls but face unexpected consequences.",
+            "genres": [
+                "Magic",
+                "Psychological",
+                "Thriller"
+            ],
+            "episodes": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Madoka_Magica_Key_Visual.jpg/220px-Madoka_Magica_Key_Visual.jpg"
+        },
+        {
+            "title": "Noragami",
+            "synopsis": "A minor god, Yato, strives to gain followers and become a major deity while dealing with his past and helping a human girl.",
+            "genres": [
+                "Action",
+                "Supernatural",
+                "Adventure"
+            ],
+            "episodes": 25,
+            "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Noragami_vol1_cover.jpg"
+        },
+        {
+            "title": "Anohana: The Flower We Saw That Day",
+            "synopsis": "A group of childhood friends are reunited when the ghost of their deceased friend appears, asking for their help to move on.",
+            "genres": [
+                "Drama",
+                "Slice of Life",
+                "Supernatural"
+            ],
+            "episodes": 11,
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai._volume_1_cover.jpg"
+        },
+        {
+            "title": "Elfen Lied",
+            "synopsis": "A girl with deadly telekinetic abilities escapes from a research facility and is taken in by two university students.",
+            "genres": [
+                "Horror",
+                "Drama",
+                "Science Fiction"
+            ],
+            "episodes": 13,
+            "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Elfen_Lied_DVD1_cover.jpg"
+        },
+        {
+            "title": "Baccano!",
+            "synopsis": "Various events in 1930s America intertwine, involving immortals, gangsters, and a mysterious elixir of life.",
+            "genres": [
+                "Action",
+                "Mystery",
+                "Supernatural"
+            ],
+            "episodes": 16,
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Baccano%21_light_novel_cover_vol1.jpg"
+        },
+        {
+            "title": "Trigun",
+            "synopsis": "Vash the Stampede, a gunslinger with a mysterious past, travels a desert planet while being pursued by bounty hunters and law enforcement.",
+            "genres": [
+                "Action",
+                "Sci-Fi",
+                "Adventure"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/TrigunDVDcover.jpg/220px-TrigunDVDcover.jpg"
+        },
+        {
+            "title": "Gurren Lagann",
+            "synopsis": "Two young men from an underground village break free to the surface and fight against oppressive forces with the help of a giant robot.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Mecha"
+            ],
+            "episodes": 27,
+            "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Gurren_Lagann_DVD_vol_1.jpg"
+        },
+        {
+            "title": "Angel Beats!",
+            "synopsis": "In a high school set in the afterlife, a group of students fight against a mysterious girl who wields supernatural powers.",
+            "genres": [
+                "Action",
+                "Drama",
+                "Supernatural"
+            ],
+            "episodes": 13,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Angel_Beats%21_Key_Visual_Art.jpg/220px-Angel_Beats%21_Key_Visual_Art.jpg"
+        },
+        {
+            "title": "Gintama",
+            "synopsis": "In an alternate Edo period, a samurai and his friends take on odd jobs while dealing with alien invaders.",
+            "genres": [
+                "Action",
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "episodes": 367,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gintama_vol01_Cover.jpg/220px-Gintama_vol01_Cover.jpg"
+        },
+        {
+            "title": "Violet Evergarden",
+            "synopsis": "A former soldier reintegrates into society and becomes an Auto Memory Doll, helping others express their emotions through letters.",
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Slice of Life"
+            ],
+            "episodes": 13,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Violet_Evergarden_Key_Visual.jpg/220px-Violet_Evergarden_Key_Visual.jpg"
+        },
+        {
+            "title": "Kill la Kill",
+            "synopsis": "A vengeful schoolgirl searches for her father's killer while wielding a sentient school uniform that gives her extraordinary abilities.",
+            "genres": [
+                "Action",
+                "Comedy",
+                "Supernatural"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Kill_la_Kill_Poster.jpg/220px-Kill_la_Kill_Poster.jpg"
+        },
+        {
+            "title": "Parasyte: The Maxim",
+            "synopsis": "A high school student battles parasitic aliens who take over human bodies while coexisting with a parasite that inhabits his hand.",
+            "genres": [
+                "Action",
+                "Horror",
+                "Sci-Fi"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Parasyte_-the_maxim-_Promo_Art.jpg/220px-Parasyte_-the_maxim-_Promo_Art.jpg"
+        },
+        {
+            "title": "Yuri on Ice",
+            "synopsis": "A Japanese figure skater rediscovers his passion for the sport with the help of his idol and coach, Russian champion Victor Nikiforov.",
+            "genres": [
+                "Drama",
+                "Romance",
+                "Sports"
+            ],
+            "episodes": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Yuri_On_Ice%21_Key_Visual.jpg/220px-Yuri_On_Ice%21_Key_Visual.jpg"
+        },
+        {
+            "title": "The Promised Neverland",
+            "synopsis": "Orphans discover the dark truth behind their orphanage and plan an escape to save themselves and the other children.",
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "episodes": 23,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Promised_Neverland_vol1_cover.jpg/220px-Promised_Neverland_vol1_cover.jpg"
+        },
+        {
+            "title": "Assassination Classroom",
+            "synopsis": "A class of misfit students is tasked with assassinating their alien teacher before he destroys Earth.",
+            "genres": [
+                "Action",
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "episodes": 47,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Assassination_Classroom_cover.jpg/220px-Assassination_Classroom_cover.jpg"
+        },
+        {
+            "title": "Hellsing",
+            "synopsis": "The Hellsing Organization, led by Integra Hellsing, combats supernatural threats with the help of the powerful vampire Alucard.",
+            "genres": [
+                "Action",
+                "Horror",
+                "Supernatural"
+            ],
+            "episodes": 13,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Hellsing1.jpg/220px-Hellsing1.jpg"
+        },
+        {
+            "title": "Nisekoi",
+            "synopsis": "Two high school students from rival yakuza families are forced into a fake relationship to maintain peace between their families.",
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Harem"
+            ],
+            "episodes": 32,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Nisekoi_volume_1_cover.jpg/220px-Nisekoi_volume_1_cover.jpg"
+        },
+        {
+            "title": "Death Parade",
+            "synopsis": "After death, people go to a bar where a bartender forces them to play games to reveal their true natures.",
+            "genres": [
+                "Psychological",
+                "Mystery",
+                "Drama"
+            ],
+            "episodes": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Death_Parade_Blu-ray.jpg/220px-Death_Parade_Blu-ray.jpg"
+        },
+        {
+            "title": "Samurai Champloo",
+            "synopsis": "Two samurais and a girl search for a samurai who smells of sunflowers in a journey full of unique challenges.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Historical"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Samurai_Champloo_complete_collection.jpg/220px-Samurai_Champloo_complete_collection.jpg"
+        },
+        {
+            "title": "Cowboy Bebop",
+            "synopsis": "A group of bounty hunters travel in their spaceship, the Bebop, trying to capture criminals while dealing with their own pasts.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Cowboy_bebop_english_dvd.jpg/220px-Cowboy_bebop_english_dvd.jpg"
+        },
+        {
+            "title": "Black Lagoon",
+            "synopsis": "A Japanese businessman joins a group of mercenaries called the Lagoon Company, who smuggle goods in and around Southeast Asia.",
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Black_Lagoon_Manga.jpg/220px-Black_Lagoon_Manga.jpg"
+        },
+        {
+            "title": "Ergo Proxy",
+            "synopsis": "In a post-apocalyptic future, a young woman investigates a series of murders involving androids and uncovers dark secrets about her world.",
+            "genres": [
+                "Mystery",
+                "Sci-Fi",
+                "Psychological"
+            ],
+            "episodes": 23,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ergo_Proxy_dvd_cover.jpg/220px-Ergo_Proxy_dvd_cover.jpg"
+        },
+        {
+            "title": "Durarara!!",
+            "synopsis": "A young man moves to Ikebukuro and becomes involved in a series of strange events involving gangsters, supernatural beings, and secret organizations.",
+            "genres": [
+                "Action",
+                "Mystery",
+                "Supernatural"
+            ],
+            "episodes": 60,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Durarara%21%21_volume_1_cover.jpg/220px-Durarara%21%21_volume_1_cover.jpg"
+        },
+        {
+            "title": "Psycho-Pass",
+            "synopsis": "In a dystopian future, the justice system is governed by the Sybil System, which quantifies people's psychological states to determine their threat level.",
+            "genres": [
+                "Action",
+                "Sci-Fi",
+                "Psychological"
+            ],
+            "episodes": 41,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/PsychoPass_cover_art.jpg/220px-PsychoPass_cover_art.jpg"
+        },
+        {
+            "title": "Spice and Wolf",
+            "synopsis": "A traveling merchant forms a partnership with a wolf deity as they travel through a medieval world seeking profit and understanding each other.",
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Romance"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/SpiceandWolf_v01_cover.jpg/220px-SpiceandWolf_v01_cover.jpg"
+        },
+        {
+            "title": "Another",
+            "synopsis": "A boy transfers to a new school where he discovers a curse that leads to mysterious deaths among the students.",
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "episodes": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/AnotherNovelCover.jpg/220px-AnotherNovelCover.jpg"
+        },
+        {
+            "title": "Mushishi",
+            "synopsis": "A traveling expert in Mushi, ethereal creatures that embody the essence of life, helps people affected by them.",
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Mystery"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Mushishi_vol_1.jpg/220px-Mushishi_vol_1.jpg"
+        },
+        {
+            "title": "Kaguya-sama: Love is War",
+            "synopsis": "Two genius students at an elite academy try to make the other confess their love first in a hilarious battle of wits.",
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Psychological"
+            ],
+            "episodes": 37,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Kaguya-sama_Love_Is_War_manga_volume_1_cover.jpg/220px-Kaguya-sama_Love_Is_War_manga_volume_1_cover.jpg"
+        },
+        {
+            "title": "March Comes in Like a Lion",
+            "synopsis": "A young professional shogi player struggles with personal issues and relationships while trying to find his place in the world.",
+            "genres": [
+                "Drama",
+                "Slice of Life",
+                "Sports"
+            ],
+            "episodes": 44,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/MarchComesInLikeALion.jpg/220px-MarchComesInLikeALion.jpg"
+        },
+        {
+            "title": "Anohana: The Flower We Saw That Day",
+            "synopsis": "A group of childhood friends reunite to help the spirit of their deceased friend find peace and move on.",
+            "genres": [
+                "Drama",
+                "Slice of Life",
+                "Supernatural"
+            ],
+            "episodes": 11,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai._volume_1_cover.jpg/220px-Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai._volume_1_cover.jpg"
+        },
+        {
+            "title": "The Melancholy of Haruhi Suzumiya",
+            "synopsis": "A high school boy gets dragged into the bizarre adventures of his eccentric classmate who can unconsciously alter reality.",
+            "genres": [
+                "Comedy",
+                "Sci-Fi",
+                "Slice of Life"
+            ],
+            "episodes": 28,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Haruhi_Suzumiya_Blu-ray_Set.jpg/220px-Haruhi_Suzumiya_Blu-ray_Set.jpg"
+        },
+        {
+            "title": "High School of the Dead",
+            "synopsis": "A group of high school students and their school nurse fight to survive a zombie apocalypse that has overwhelmed their city.",
+            "genres": [
+                "Action",
+                "Horror",
+                "Supernatural"
+            ],
+            "episodes": 12,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Highschool_of_the_Dead_DVD_vol_1.jpg/220px-Highschool_of_the_Dead_DVD_vol_1.jpg"
+        },
+        {
+            "title": "Beastars",
+            "synopsis": "In a world of anthropomorphic animals, a mild-mannered wolf deals with his predatory instincts while navigating complex social dynamics.",
+            "genres": [
+                "Drama",
+                "Mystery",
+                "Psychological"
+            ],
+            "episodes": 24,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Beastars_vol_1.png/220px-Beastars_vol_1.png"
+        },
+        {
+            "title": "K-On!",
+            "synopsis": "A group of high school girls join the light music club and form a band, experiencing various comedic and heartfelt moments.",
+            "genres": [
+                "Music",
+                "Slice of Life",
+                "Comedy"
+            ],
+            "episodes": 39,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/K-On%21_manga_cover.jpg/220px-K-On%21_manga_cover.jpg"
+        },
+        {
+            "title": "Neon Genesis Evangelion",
+            "synopsis": "In a post-apocalyptic world, teenagers pilot giant robots to protect humanity from mysterious beings known as Angels.",
+            "genres": [
+                "Action",
+                "Mecha",
+                "Psychological"
+            ],
+            "episodes": 26,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Neon_Genesis_Evangelion_DVD_vol_1.jpg/220px-Neon_Genesis_Evangelion_DVD_vol_1.jpg"
+        },
+        {
+            "title": "Nodame Cantabile",
+            "synopsis": "A talented but disorganized pianist meets a perfectionist aspiring conductor, and together they inspire each other's musical growth.",
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "episodes": 45,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/NodameCantabile-vol1cover.jpg/220px-NodameCantabile-vol1cover.jpg"
+        },
+        {
+            "title": "Inuyasha",
+            "synopsis": "A modern-day girl is transported to the Sengoku period, where she meets a half-demon and embarks on a quest to collect the shards of a powerful jewel.",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Romance"
+            ],
+            "episodes": 193,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Inuyasha_vol_1.jpg/220px-Inuyasha_vol_1.jpg"
+        }
+    ]
+}
